@@ -1,0 +1,34 @@
+\beamer@sectionintoc {1}{Lecture 00 Motivation.pdf}{7}{0}{1}
+\beamer@sectionintoc {2}{Lecture 01 Natural Deduction 1.pdf}{54}{0}{2}
+\beamer@sectionintoc {3}{Lecture 02 Natural Deduction 2.pdf}{125}{0}{3}
+\beamer@sectionintoc {4}{Lecture 03 Soundness and Completeness Of PL.pdf}{217}{0}{4}
+\beamer@sectionintoc {5}{Lecture 04 Normal Forms and Horn Clauses.pdf}{256}{0}{5}
+\beamer@sectionintoc {6}{Lecture 05 Resolution 1.pdf}{303}{0}{6}
+\beamer@sectionintoc {7}{Lecture 06 Resolution 2.pdf}{334}{0}{7}
+\beamer@sectionintoc {8}{Lecture 07 Recap.pdf}{375}{0}{8}
+\beamer@sectionintoc {9}{Lecture 08 CNF to DNF.pdf}{385}{0}{9}
+\beamer@sectionintoc {10}{Lecture 09 DPLL.pdf}{401}{0}{10}
+\beamer@sectionintoc {11}{Lecture 10 FOL Syntax.pdf}{440}{0}{11}
+\beamer@sectionintoc {12}{Lecture 11 FOL Semantics.pdf}{469}{0}{12}
+\beamer@sectionintoc {13}{Lecture 12 FOL SAT.pdf}{508}{0}{13}
+\beamer@sectionintoc {14}{Lecture 13 FOL SAT Translation.pdf}{529}{0}{14}
+\beamer@sectionintoc {15}{Lecture 14 FOL RPF Skolemisation.pdf}{546}{0}{15}
+\beamer@sectionintoc {16}{Lecture 15 FOL Words.pdf}{565}{0}{16}
+\beamer@sectionintoc {17}{Lecture 16 FOL FSM 01.pdf}{602}{0}{17}
+\beamer@sectionintoc {18}{Lecture 17 FOL FSM 02.pdf}{632}{0}{18}
+\beamer@sectionintoc {19}{Lecture 18 FOL NFA.pdf}{691}{0}{19}
+\beamer@sectionintoc {20}{Lecture 19 FOL NFA to DFA 1.pdf}{749}{0}{20}
+\beamer@sectionintoc {21}{Lecture 20 FOL NFA to DFA 2.pdf}{765}{0}{21}
+\beamer@sectionintoc {22}{Lecture 21 FOL NFA to DFA 3.pdf}{784}{0}{22}
+\beamer@sectionintoc {23}{Lecture 22 MSO.pdf}{799}{0}{23}
+\beamer@sectionintoc {24}{Lecture 23 MSO Regular Languages.pdf}{815}{0}{24}
+\beamer@sectionintoc {25}{Lecture 24 Herbrand Theory.pdf}{842}{0}{25}
+\beamer@sectionintoc {26}{Lecture 25 Herbrand Theorem.pdf}{863}{0}{26}
+\beamer@sectionintoc {27}{Lecture 26 Herbrand Method.pdf}{882}{0}{27}
+\beamer@sectionintoc {28}{Lecture 27-29 LTL Transitions DBA and NBA.pdf}{894}{0}{28}
+\beamer@sectionintoc {29}{Lecture 27 Model Checking LTL.pdf}{968}{0}{29}
+\beamer@sectionintoc {30}{Lecture 28-29 LTL.pdf}{992}{0}{30}
+\beamer@sectionintoc {31}{Lecture 30.pdf}{1036}{0}{31}
+\beamer@sectionintoc {32}{Lecture 31.pdf}{1065}{0}{32}
+\beamer@sectionintoc {33}{Lecture 32-34.pdf}{1083}{0}{33}
+\beamer@sectionintoc {34}{Lecture 36.pdf}{1147}{0}{34}

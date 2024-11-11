@@ -1,0 +1,170 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\slideentry {0}{0}{3}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {0}{0}{4}{4/4}{}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {0}{0}{5}{5/5}{}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@sectionpages {1}{5}}
+\headcommand {\beamer@subsectionpages {1}{5}}
+\headcommand {\sectionentry {1}{Week1/1 intro-to-comp-arch.pdf}{6}{Week1/1 intro-to-comp-arch.pdf}{0}}
+\headcommand {\slideentry {1}{0}{1}{6/6}{}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@sectionpages {6}{23}}
+\headcommand {\beamer@subsectionpages {6}{23}}
+\headcommand {\sectionentry {2}{Week1/2 parts-of-computer.pdf}{24}{Week1/2 parts-of-computer.pdf}{0}}
+\headcommand {\slideentry {2}{0}{1}{24/24}{}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\beamer@sectionpages {24}{33}}
+\headcommand {\beamer@subsectionpages {24}{33}}
+\headcommand {\sectionentry {3}{Week1/3 ic-technology.pdf}{34}{Week1/3 ic-technology.pdf}{0}}
+\headcommand {\slideentry {3}{0}{1}{34/34}{}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\beamer@sectionpages {34}{38}}
+\headcommand {\beamer@subsectionpages {34}{38}}
+\headcommand {\sectionentry {4}{Week1/4 instruction-set-design.pdf}{39}{Week1/4 instruction-set-design.pdf}{0}}
+\headcommand {\slideentry {4}{0}{1}{39/39}{}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\beamer@sectionpages {39}{62}}
+\headcommand {\beamer@subsectionpages {39}{62}}
+\headcommand {\sectionentry {5}{Week2/1 instruction-encoding.pdf}{63}{Week2/1 instruction-encoding.pdf}{0}}
+\headcommand {\slideentry {5}{0}{1}{63/63}{}{0}}
+\headcommand {\beamer@framepages {63}{63}}
+\headcommand {\beamer@sectionpages {63}{68}}
+\headcommand {\beamer@subsectionpages {63}{68}}
+\headcommand {\sectionentry {6}{Week2/2 function-call-support.pdf}{69}{Week2/2 function-call-support.pdf}{0}}
+\headcommand {\slideentry {6}{0}{1}{69/69}{}{0}}
+\headcommand {\beamer@framepages {69}{69}}
+\headcommand {\beamer@sectionpages {69}{84}}
+\headcommand {\beamer@subsectionpages {69}{84}}
+\headcommand {\sectionentry {7}{Week2/3 hll-code-to-process.pdf}{85}{Week2/3 hll-code-to-process.pdf}{0}}
+\headcommand {\slideentry {7}{0}{1}{85/85}{}{0}}
+\headcommand {\beamer@framepages {85}{85}}
+\headcommand {\beamer@sectionpages {85}{92}}
+\headcommand {\beamer@subsectionpages {85}{92}}
+\headcommand {\sectionentry {8}{Week3/1 arithmetic-in-mips.pdf}{93}{Week3/1 arithmetic-in-mips.pdf}{0}}
+\headcommand {\slideentry {8}{0}{1}{93/93}{}{0}}
+\headcommand {\beamer@framepages {93}{93}}
+\headcommand {\beamer@sectionpages {93}{100}}
+\headcommand {\beamer@subsectionpages {93}{100}}
+\headcommand {\sectionentry {9}{Week3/2 comp-perf-quant.pdf}{101}{Week3/2 comp-perf-quant.pdf}{0}}
+\headcommand {\slideentry {9}{0}{1}{101/101}{}{0}}
+\headcommand {\beamer@framepages {101}{101}}
+\headcommand {\beamer@sectionpages {101}{114}}
+\headcommand {\beamer@subsectionpages {101}{114}}
+\headcommand {\sectionentry {10}{Week3/3 hw-impl-prelims.pdf}{115}{Week3/3 hw-impl-prelims.pdf}{0}}
+\headcommand {\slideentry {10}{0}{1}{115/115}{}{0}}
+\headcommand {\beamer@framepages {115}{115}}
+\headcommand {\beamer@sectionpages {115}{121}}
+\headcommand {\beamer@subsectionpages {115}{121}}
+\headcommand {\sectionentry {11}{Week3/4 single-cycle-impl.pdf}{122}{Week3/4 single-cycle-impl.pdf}{0}}
+\headcommand {\slideentry {11}{0}{1}{122/122}{}{0}}
+\headcommand {\beamer@framepages {122}{122}}
+\headcommand {\beamer@sectionpages {122}{138}}
+\headcommand {\beamer@subsectionpages {122}{138}}
+\headcommand {\sectionentry {12}{Week4/1 single-cycle-impl B9IuzhA.pdf}{139}{Week4/1 single-cycle-impl B9IuzhA.pdf}{0}}
+\headcommand {\slideentry {12}{0}{1}{139/139}{}{0}}
+\headcommand {\beamer@framepages {139}{139}}
+\headcommand {\beamer@sectionpages {139}{155}}
+\headcommand {\beamer@subsectionpages {139}{155}}
+\headcommand {\sectionentry {13}{Week4/2 single-cycle-extn.pdf}{156}{Week4/2 single-cycle-extn.pdf}{0}}
+\headcommand {\slideentry {13}{0}{1}{156/156}{}{0}}
+\headcommand {\beamer@framepages {156}{156}}
+\headcommand {\beamer@sectionpages {156}{163}}
+\headcommand {\beamer@subsectionpages {156}{163}}
+\headcommand {\sectionentry {14}{Week4/3 single-cycle-analysis.pdf}{164}{Week4/3 single-cycle-analysis.pdf}{0}}
+\headcommand {\slideentry {14}{0}{1}{164/164}{}{0}}
+\headcommand {\beamer@framepages {164}{164}}
+\headcommand {\beamer@sectionpages {164}{169}}
+\headcommand {\beamer@subsectionpages {164}{169}}
+\headcommand {\sectionentry {15}{Week5/1 intro-to-pipelining.pdf}{170}{Week5/1 intro-to-pipelining.pdf}{0}}
+\headcommand {\slideentry {15}{0}{1}{170/170}{}{0}}
+\headcommand {\beamer@framepages {170}{170}}
+\headcommand {\beamer@sectionpages {170}{185}}
+\headcommand {\beamer@subsectionpages {170}{185}}
+\headcommand {\sectionentry {16}{Week5/2 structural-hazards-pipelined-datapath.pdf}{186}{Week5/2 structural-hazards-pipelined-datapath.pdf}{0}}
+\headcommand {\slideentry {16}{0}{1}{186/186}{}{0}}
+\headcommand {\beamer@framepages {186}{186}}
+\headcommand {\beamer@sectionpages {186}{195}}
+\headcommand {\beamer@subsectionpages {186}{195}}
+\headcommand {\sectionentry {17}{Week5/3 data-hazards.pdf}{196}{Week5/3 data-hazards.pdf}{0}}
+\headcommand {\slideentry {17}{0}{1}{196/196}{}{0}}
+\headcommand {\beamer@framepages {196}{196}}
+\headcommand {\beamer@sectionpages {196}{208}}
+\headcommand {\beamer@subsectionpages {196}{208}}
+\headcommand {\sectionentry {18}{Week6/1 control-hazards.pdf}{209}{Week6/1 control-hazards.pdf}{0}}
+\headcommand {\slideentry {18}{0}{1}{209/209}{}{0}}
+\headcommand {\beamer@framepages {209}{209}}
+\headcommand {\beamer@sectionpages {209}{226}}
+\headcommand {\beamer@subsectionpages {209}{226}}
+\headcommand {\sectionentry {19}{Week7/1 pipeline-control.pdf}{227}{Week7/1 pipeline-control.pdf}{0}}
+\headcommand {\slideentry {19}{0}{1}{227/227}{}{0}}
+\headcommand {\beamer@framepages {227}{227}}
+\headcommand {\beamer@sectionpages {227}{242}}
+\headcommand {\beamer@subsectionpages {227}{242}}
+\headcommand {\sectionentry {20}{Week7/2 pipeline-exceptions.pdf}{243}{Week7/2 pipeline-exceptions.pdf}{0}}
+\headcommand {\slideentry {20}{0}{1}{243/243}{}{0}}
+\headcommand {\beamer@framepages {243}{243}}
+\headcommand {\beamer@sectionpages {243}{250}}
+\headcommand {\beamer@subsectionpages {243}{250}}
+\headcommand {\sectionentry {21}{Week8/1 one-system-to-know-them-all.pdf}{251}{Week8/1 one-system-to-know-them-all.pdf}{0}}
+\headcommand {\slideentry {21}{0}{1}{251/251}{}{0}}
+\headcommand {\beamer@framepages {251}{251}}
+\headcommand {\beamer@sectionpages {251}{256}}
+\headcommand {\beamer@subsectionpages {251}{256}}
+\headcommand {\sectionentry {22}{Week8/2 the-memory-system-a-hierarchy-of-caches.pdf}{257}{Week8/2 the-memory-system-a-hierarchy-of-caches.pdf}{0}}
+\headcommand {\slideentry {22}{0}{1}{257/257}{}{0}}
+\headcommand {\beamer@framepages {257}{257}}
+\headcommand {\beamer@sectionpages {257}{266}}
+\headcommand {\beamer@subsectionpages {257}{266}}
+\headcommand {\sectionentry {23}{Week8/3 cache-design-a-beginning.pdf}{267}{Week8/3 cache-design-a-beginning.pdf}{0}}
+\headcommand {\slideentry {23}{0}{1}{267/267}{}{0}}
+\headcommand {\beamer@framepages {267}{267}}
+\headcommand {\beamer@sectionpages {267}{280}}
+\headcommand {\beamer@subsectionpages {267}{280}}
+\headcommand {\sectionentry {24}{Week8/4 associative-caches.pdf}{281}{Week8/4 associative-caches.pdf}{0}}
+\headcommand {\slideentry {24}{0}{1}{281/281}{}{0}}
+\headcommand {\beamer@framepages {281}{281}}
+\headcommand {\beamer@sectionpages {281}{290}}
+\headcommand {\beamer@subsectionpages {281}{290}}
+\headcommand {\sectionentry {25}{Week9/1 cache-performance-analysis.pdf}{291}{Week9/1 cache-performance-analysis.pdf}{0}}
+\headcommand {\slideentry {25}{0}{1}{291/291}{}{0}}
+\headcommand {\beamer@framepages {291}{291}}
+\headcommand {\beamer@sectionpages {291}{308}}
+\headcommand {\beamer@subsectionpages {291}{308}}
+\headcommand {\sectionentry {26}{Week9/2 prog-perf-with-cache.pdf}{309}{Week9/2 prog-perf-with-cache.pdf}{0}}
+\headcommand {\slideentry {26}{0}{1}{309/309}{}{0}}
+\headcommand {\beamer@framepages {309}{309}}
+\headcommand {\beamer@sectionpages {309}{314}}
+\headcommand {\beamer@subsectionpages {309}{314}}
+\headcommand {\sectionentry {27}{Week10/1 virtual-memory.pdf}{315}{Week10/1 virtual-memory.pdf}{0}}
+\headcommand {\slideentry {27}{0}{1}{315/315}{}{0}}
+\headcommand {\beamer@framepages {315}{315}}
+\headcommand {\beamer@sectionpages {315}{336}}
+\headcommand {\beamer@subsectionpages {315}{336}}
+\headcommand {\sectionentry {28}{Week11/1 virtual-memory-and-caches.pdf}{337}{Week11/1 virtual-memory-and-caches.pdf}{0}}
+\headcommand {\slideentry {28}{0}{1}{337/337}{}{0}}
+\headcommand {\beamer@framepages {337}{337}}
+\headcommand {\beamer@sectionpages {337}{349}}
+\headcommand {\beamer@subsectionpages {337}{349}}
+\headcommand {\sectionentry {29}{Week11/2 hw-os-for-vm.pdf}{350}{Week11/2 hw-os-for-vm.pdf}{0}}
+\headcommand {\slideentry {29}{0}{1}{350/350}{}{0}}
+\headcommand {\beamer@framepages {350}{350}}
+\headcommand {\beamer@sectionpages {350}{360}}
+\headcommand {\beamer@subsectionpages {350}{360}}
+\headcommand {\sectionentry {30}{Week11/3 input-output-intro.pdf}{361}{Week11/3 input-output-intro.pdf}{0}}
+\headcommand {\slideentry {30}{0}{1}{361/361}{}{0}}
+\headcommand {\beamer@framepages {361}{361}}
+\headcommand {\beamer@sectionpages {361}{366}}
+\headcommand {\beamer@subsectionpages {361}{366}}
+\headcommand {\sectionentry {31}{Week11/4 intro-to-buses.pdf}{367}{Week11/4 intro-to-buses.pdf}{0}}
+\headcommand {\slideentry {31}{0}{1}{367/367}{}{0}}
+\headcommand {\beamer@framepages {367}{367}}
+\headcommand {\beamer@partpages {1}{376}}
+\headcommand {\beamer@subsectionpages {367}{376}}
+\headcommand {\beamer@sectionpages {367}{376}}
+\headcommand {\beamer@documentpages {376}}
+\headcommand {\gdef \inserttotalframenumber {36}}
